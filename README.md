@@ -1,2 +1,0 @@
-# hngproject
-hngproject
